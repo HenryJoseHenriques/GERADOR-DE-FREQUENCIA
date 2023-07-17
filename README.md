@@ -1,5 +1,5 @@
-# GERADOR-DE-FREQUENCIA
+# GERADOR-DE-FREQUÊNCIA
 
-O gerador de função é um equipamento de teste eletrônico utilizado para gerar vários tipos de formas de ondas elétricas em uma ampla faixa de frequências, sendo as mais comuns: formas dente de serra, onda triangular, onda quadrada e onda senoidal.
+Um gerador de frequência é um dispositivo eletrônico ou um programa de computador que produz um sinal elétrico ou sonoro de frequência específica. Esses geradores são amplamente utilizados em várias aplicações, como engenharia de áudio, testes de equipamentos, pesquisas científicas, música eletrônica e muito mais.
 
-Esse trabalho acompanha, também, um arquivo do Excel que contém um gerador de saídas de flip flop JK automático, que pode ser utilizado na contrução de outros geradores.
+Este trabalho acompanha, também, um arquivo do Excel que contém um gerador de saídas de flip flop JK automático, que pode ser utilizado na contrução de outros geradores.
